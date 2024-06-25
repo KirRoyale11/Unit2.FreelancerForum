@@ -77,8 +77,8 @@ function addFreelancer() {
   // TODO: Stop adding shapes if we've reached the maximum number of shapes
 }
 
-function avgPrice() {
-  let currentAvg = (price) => ((total += current) / freelancers.length, 1);
-  return currentAvg;
-  document.querySelector("#avg-price") = currentAvg;
-}
+// function avgPrice() {
+//   let currentAvg = (price) => ((total += current) / freelancers.length, 1);
+//   return currentAvg;
+//   document.querySelector("#avg-price") = currentAvg;
+// }
